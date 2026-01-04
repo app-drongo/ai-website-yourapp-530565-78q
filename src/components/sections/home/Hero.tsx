@@ -18,7 +18,7 @@ const DEFAULT_HERO = {
   secondaryCtaText: 'Watch Demo',
   secondaryCtaHref: '/demo',
   heroImageUrl:
-    'https://fastly.picsum.photos/id/12/2500/1667.jpg?hmac=Pe3284luVre9ZqNzv1jMFpLihFI6lwq7TPgMSsNXw2w',
+    'https://fastly.picsum.photos/id/7/4728/3168.jpg?hmac=c5B5tfYFM9blHHMhuu4UKmhnbZoJqrzNOP9xjkV4w3o',
   heroImageAlt: 'Modern team collaborating with intelligent software solutions',
   features: [
     'Seamless workflow automation',
